@@ -1,5 +1,5 @@
 
-# Exploiting Reflected Cross Site Scripting when "Referer" header value reders on web page
+# Exploiting Reflected Cross Site Scripting when "Referer" header value renders on web page
 
 # Why This Code
 This sample code is vulnerable to "Referer" based Cross-Site-Scripting i.e if application is rendering the value of from "Referer" request header, how to trigger reflected Cross Site Scripting in that case.
