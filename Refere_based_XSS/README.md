@@ -1,3 +1,6 @@
+
+# Exploiting Reflected Cross Site Scripting when "Referer" header value reders on web page
+
 # Why This Code
 This sample code is vulnerable to "Referer" based Cross-Site-Scripting i.e if application is rendering the value of from "Referer" request header, how to trigger reflected Cross Site Scripting in that case.
 
@@ -51,3 +54,15 @@ Cross-Site-Scripting payload crafted HTML page link
 Reflected Cross-Site-Scripting payload executed on domain which renders the value of "Referer" Header.
 
 ![Executed](https://raw.githubusercontent.com/incredibleindishell/Random/master/Refere_based_XSS/images/ref%20vulnerable%20xss.png)
+
+--==[[ Greetz To ]]==-- 
+
+Guru ji zero ,code breaker ica, root_devil, google_warrior,INX_r0ot,Darkwolf indishell,Baba, 
+Silent poison India,Magnum sniper,ethicalnoob Indishell,Reborn India,L0rd Crus4d3r,cool toad, 
+Hackuin,Alicks,mike waals,cyber gladiator,Cyber Ace,Golden boy INDIA,d3, rafay baloch, nag256 
+Ketan Singh,AR AR,d2,saad abbasi,Minhal Mehdi ,Raj bhai ji ,Hacking queen,lovetherisk,Bikash Dash 
+
+--==[[ Love To ]]==-- 
+
+My Father ,my Ex Teacher,cold fire hacker,Mannu, ViKi ,Ashu bhai ji,Soldier Of God, Bhuppi, 
+Mohit,Ffe,Ashish,Shardhanand,Budhaoo,Jagriti,Salty, Hacker fantastic, Jennifer Arcuri and Don(Deepika kaushik)
