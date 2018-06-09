@@ -1,4 +1,4 @@
-<b>Weblogic config file decrypt</b>
+Weblogic config file decrypt
 
 We need 2 things in system to decrypt the password
 1) Jython 
@@ -8,7 +8,7 @@ Copy package to install jython
 cp bcprov-jdk15on-153.jar /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/ext/
 
 
-<b>Usage: -</b>
+Usage: -
 
 jython weblogicpassworddecryptor.jy -s SerializedSystemIni.dat -p {AES}encrypted_password
 jython weblogicpassworddecryptor.jy -s SerializedSystemIni.dat -p {AES}mHE2BBCn3gq3Dzol2UrpVJ/UE9vKckH69y5gcjxb0Fc=
