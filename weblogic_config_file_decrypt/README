@@ -1,1 +1,6 @@
 Weblogic config file decrypt
+Usage: -
+
+jython weblogicpassworddecryptor.jy -s SerializedSystemIni.dat -p {AES}encrypted_password
+
+jython weblogicpassworddecryptor.jy -s SerializedSystemIni.dat -p {AES}mHE2BBCn3gq3Dzol2UrpVJ/UE9vKckH69y5gcjxb0Fc=
